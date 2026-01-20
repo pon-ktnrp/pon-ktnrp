@@ -4,9 +4,6 @@
 
 ### Computer Engineering Student @ Chulalongkorn University
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Fintech+Enthusiast;Exploring+Data+Science+%26+AI;Building+Scalable+Systems" alt="Typing SVG" />
-</a>
 
 <p align="center">
   <a href="https://linkedin.com/in/pon-kittinaraporn">
@@ -23,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-I am a 3rd-year Computer Engineering student passionate about bridging the gap between **Software Engineering** and **Financial Technology**. While my background is in building robust Full Stack applications using **Next.js** and **Go**, I am currently expanding my horizon into **Data Science** and **AI** to solve complex analytical problems.
+I am a 3rd-year Computer Engineering student passionate about bridging the gap between **Software Engineering** and **Financial Technology**. While my background is in building robust Full Stack applications using **Next.js** and **Node.js**, I am currently expanding my horizon into **Data Science** and **AI**.
 
-- 🔭 **I’m currently working on:** Building scalable microservices and real-time applications using **Golang** and **Socket.io**.
-- 🌱 **I’m currently learning:** Quantitative Analysis, Machine Learning pipelines, and Financial Engineering concepts.
+- 🔭 **I’m currently working on:** Building scalable microservices and real-time applications.
+- 🌱 **I’m currently learning:** Data science, Machine Learning pipelines, and Software desgin.
 - 💡 **I’m interested in:** The intersection of high-frequency systems (Fintech) and AI-driven decision making.
 - 👯 **Leadership:** Vice President at **Intania Light Club**.
 
@@ -38,9 +35,10 @@ I am a 3rd-year Computer Engineering student passionate about bridging the gap b
 
 **Languages**
 <br>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
@@ -60,23 +58,4 @@ I am a 3rd-year Computer Engineering student passionate about bridging the gap b
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 
-</div>
-
----
-
-### 🏆 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Roomie-finder** | `Next.js` `Go` `TypeScript` | Full-stack housing platform with Go-powered search algorithms and responsive UI. |
-| **Chat-App** | `MERN` `Socket.io` | Real-time bi-directional messaging platform with persistent sessions. |
-| **Job Fair Reg** | `Node.js` `MongoDB` | High-concurrency registration system managing heavy traffic loads. |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pon-ktnrp&show_icons=true&theme=radical&hide_border=true" height="160" alt="Pon's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pon-ktnrp&layout=compact&theme=radical&hide_border=true" height="160" alt="Pon's Top Languages" />
 </div>
